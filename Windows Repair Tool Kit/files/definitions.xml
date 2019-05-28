@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ALL_LINKS>
+	<LINKS>
+	    <!--VERSION-->
+		<LINKS title="VERSION" number="1.2.7.2"/>
+	    <!--HARDWARE-->
+		<LINKS title="HWMonitor_x32" link="http://download.cpuid.com/hwmonitor/hwmonitor_1.34.zip" exe="HWMonitor_x32.exe" zip="hwmonitor_1.34.zip"/>
+		<LINKS title="HWMonitor_x64" link="http://download.cpuid.com/hwmonitor/hwmonitor_1.34.zip" exe="HWMonitor_x64.exe" zip="hwmonitor_1.34.zip"/>		
+		<LINKS title="cpuz_x32" link="http://download.cpuid.com/cpu-z/cpu-z_1.82-en.zip" exe="cpuz_x32.exe" zip="cpu-z_1.82-en.zip"/>
+		<LINKS title="cpuz_x64" link="http://download.cpuid.com/cpu-z/cpu-z_1.82-en.zip" exe="cpuz_x64.exe" zip="cpu-z_1.82-en.zip"/>
+		<LINKS title="gpuZ" link="http://de1-dl.techpowerup.com/files/GPU-Z.2.6.0.exe" exe="GPU-Z.2.6.0.exe" zip=""/>
+		<LINKS title="DiskInfo" link="http://www.snapfiles.com/downloads/cdiskinfo/dlcdiskinfo.html" exe="DiskInfo32.exe" zip="CrystalDiskInfo7_5_1.zip"/>
+		<LINKS title="DiskInfo_x64" link="http://www.snapfiles.com/downloads/cdiskinfo/dlcdiskinfo.html" exe="DiskInfo64.exe" zip="CrystalDiskInfo7_5_1.zip"/>
+		<LINKS title="RAMExpert" link="http://www.kcsoftwares.com/files/ramexpert.zip" exe="RAMExpert.exe" zip="ramexpert.zip"/>
+		<LINKS title="StressTest" link="http://www.jam-software.com/heavyload/HeavyLoad-x86.zip" exe="HeavyLoad.exe" zip="HeavyLoad-x86.zip"/>
+		<LINKS title="StressTest_x64" link="http://www.jam-software.com/heavyload/HeavyLoad-x64.zip" exe="HeavyLoad.exe" zip="HeavyLoad-x64.zip"/>
+		<LINKS title="HWinfo" link="https://www.hwinfo.com/files/hw32_570.zip" exe="HWiNFO32.exe" zip="hw32_570.zip"/>
+		<LINKS title="HWinfo_x64" link="https://www.hwinfo.com/files/hw64_570.zip" exe="HWiNFO64.exe" zip="hw64_570.zip"/>
+		<LINKS title="ssdZ" link="http://aezay.dk/aezay/ssdz/SSD-Z_16.09.09wip.zip" exe="SSD-Z.exe" zip="SSD-Z_16.09.09wip.zip"/>
+		<LINKS title="GSmartCtrl" link="https://netcologne.dl.sourceforge.net/project/gsmartcontrol/0.9.0/gsmartcontrol-0.9.0-win32.zip" exe="gsmartcontrol.exe" zip="gsmartcontrol-0.9.0-win32.zip"/>
+		<LINKS title="GSmartCtrl_x32" link="https://netcologne.dl.sourceforge.net/project/gsmartcontrol/1.1.3/gsmartcontrol-1.1.3-win32.zip" exe="gsmartcontrol.exe" zip="gsmartcontrol-1.1.3-win32.zip"/>		
+		<LINKS title="GSmartCtrl_x64" link="https://netcologne.dl.sourceforge.net/project/gsmartcontrol/1.1.3/gsmartcontrol-1.1.3-win64.zip" exe="gsmartcontrol.exe" zip="gsmartcontrol-1.1.3-win64.zip"/>
+		<LINKS title="VMTest" link="https://netcologne.dl.sourceforge.net/project/vmst/vmt.bin.1.7.116.zip" exe="vmt.exe" zip="vmt.bin.1.7.116.zip"/>
+		<LINKS title="BATExpert" link="http://www.kcsoftwares.com/files/batexpert.zip" exe="BatExpert.exe" zip="batexpert.zip"/>		
+		<LINKS title="ChkFlsh" link="http://mikelab.kiev.ua/PROGRAMS/ChkFlsh.zip" exe="ChkFlsh.exe" zip="ChkFlsh.zip"/>											
+		<!--BACKUP_RECOVERY-->
+		<LINKS title="AOMEI" link="http://www2.aomeisoftware.com/download/adb/BackupperFull.exe" exe="BackupperFull.exe" zip=""/>		
+		<LINKS title="Back4Sure" link="http://www.ukrebs-software.de/download/back4sure/Back4Sure_Portable.zip" exe="Back4Sure.exe" zip="Back4Sure_Portable.zip"/>
+		<LINKS title="Back4Sure_x64" link="http://www.ukrebs-software.de/download/back4sure/Back4Sure64_Portable.zip" exe="Back4Sure.exe" zip="Back4Sure64_Portable.zip"/>
+		<LINKS title="DriverBackup" link="https://netcologne.dl.sourceforge.net/project/drvback/DriverBackup%21%202/DrvBK%202.1/DrvBK_21_Rev7.zip" exe="DrvBK.exe" zip="DrvBK_21_Rev7.zip"/>	
+		<LINKS title="Recuva" link="http://www.piriform.com/recuva/download/portable/downloadfile" exe="recuva.exe" zip="Recuva.zip"/>		
+		<LINKS title="Recuva_x64" link="http://www.piriform.com/recuva/download/portable/downloadfile" exe="recuva64.exe" zip="Recuva.zip"/>	
+		<LINKS title="LicenseCrawler" link="http://www.klinzmann.name/files/licensecrawler.zip" exe="LicenseCrawler.exe" zip="licensecrawler.zip"/>
+		<LINKS title="DMDE" link="https://dmde.com/download/dmde-3.4.2.722-win32-gui.zip" exe="dmde.exe" zip="dmde-3.4.2.722-win32-gui.zip"/>
+		<!--USEFUL_TOOLS-->	
+		<LINKS title="Report" link="http://anywhere.webrootcloudav.com/zerol/syswranalyzer.exe" exe="syswranalyzer.exe" zip=""/>
+		<LINKS title="GrantPermsx32" link="http://www.bleepingcomputer.com/download/grantperms/dl/79/" exe="GrantPerms.exe" zip="GrantPerms.zip"/>
+		<LINKS title="GrantPermsx64" link="http://www.bleepingcomputer.com/download/grantperms/dl/80/" exe="GrantPerms64.exe" zip="GrantPerms64.zip"/>
+		<LINKS title="NirLauncher" link="http://download.nirsoft.net/nirsoft_package_1.20.26.zip" exe="NirLauncher.exe" zip="nirsoft_package_1.20.26.zip"/>
+		<LINKS title="Snappy_Driver_Installer" link="http://snappy-driver-installer.org/downloads/SDIO_1.4.1.675.zip" exe="SDIO_R675.exe" zip="SDIO_1.4.1.675.zip"/>
+		<LINKS title="Snappy_Driver_Installer_x64" link="http://snappy-driver-installer.org/downloads/SDIO_1.4.1.675.zip" exe="SDIO_x64_R675.exe" zip="SDIO_1.4.1.675.zip"/>
+		<LINKS title="FastCopy" link="https://ipmsg.org/archive/FastCopy340.zip" exe="FastCopy.exe" zip="FastCopy340.zip"/>
+		<LINKS title="FastCopy_x64" link="https://ipmsg.org/archive/FastCopy340_x64.zip" exe="FastCopy.exe" zip="FastCopy340_x64.zip"/>
+		<LINKS title="Ninite" link="https://ninite.com/" exe="" zip=""/>		
+		<LINKS title="WizTree_x32" link="http://antibody-software.com/files/wiztree_3_17_portable.zip" exe="WizTree.exe" zip="wiztree_3_17_portable.zip"/>
+		<LINKS title="WizTree_x64" link="http://antibody-software.com/files/wiztree_3_17_portable.zip" exe="WizTree64.exe" zip="wiztree_3_17_portable.zip"/>									
+		<LINKS title="PatchMyPc" link="http://patchmypc.net/freeupdater/PatchMyPC.exe" exe="PatchMyPC.exe" zip=""/>
+		<LINKS title="Macrorit" link="http://disk-tool.com/download/mde/mde-free-portable.zip" exe="dm.exe" zip="mde-free-portable.zip"/>									
+		<LINKS title="BlueScreenView_x32" link="http://www.nirsoft.net/utils/bluescreenview.zip" exe="BlueScreenView.exe" zip="bluescreenview.zip"/>
+		<LINKS title="BlueScreenView_x64" link="http://www.nirsoft.net/utils/bluescreenview-x64.zip" exe="BlueScreenView.exe" zip="bluescreenview-x64.zip"/>
+		<LINKS title="AppCrashView" link="http://www.nirsoft.net/utils/appcrashview.zip" exe="AppCrashView.exe" zip="appcrashview.zip"/>		
+		<!--REPAIRS-->
+		<LINKS title="UltraAdwKillerx32" link="http://www.carifred.com/ultra_adware_killer/UltraAdwareKiller.exe" exe="UltraAdwareKiller.exe" zip=""/>		
+		<LINKS title="UltraAdwKillerx64" link="http://www.carifred.com/ultra_adware_killer/UltraAdwareKiller64.exe" exe="UltraAdwareKiller64.exe" zip=""/>
+		<LINKS title="CIntRepair_x32" link="https://www.rizonesoft.com/download/3905/" exe="ComIntRep.exe" zip="ComIntRep_3850.zip"/>		
+		<LINKS title="CIntRepair_x64" link="https://www.rizonesoft.com/download/3905/" exe="ComIntRep_x64.exe" zip="ComIntRep_3850.zip"/>
+		<LINKS title="RepairAIO" link="http://www.tweaking.com/files/setups/tweaking.com_windows_repair_aio.zip" exe="Repair_Windows.exe" zip="tweaking.com_windows_repair_aio.zip" processName="Repair_Windows"/>		
+		<LINKS title="ChromeCleanup" link="https://dl.google.com/dl/softwareremovaltool/free-range/win/chrome_cleanup_tool.exe" exe="chrome_cleanup_tool.exe" zip=""/>
+		<LINKS title="Zoek" link="http://download.bleepingcomputer.com/smeenk/zoek.exe" exe="zoek.exe" zip=""/>
+		<LINKS title="processXPL" link="https://download.sysinternals.com/files/ProcessExplorer.zip" exe="procexp.exe" zip="ProcessExplorer.zip"/>
+		<LINKS title="NetRepairAIO" link="https://master.dl.sourceforge.net/project/netadapter/NetAdapterRepair1.2.exe" exe="NetAdapterRepair1.2.exe" zip=""/>
+		<LINKS title="EasyFix" link="https://support.microsoft.com/en-us/help/2970908/how-to-use-microsoft-easy-fix-solutions" exe="" zip=""/>				
+		<LINKS title="FreeFixer" link="http://www.freefixer.com/static/freefixer_portable.zip" exe="freefixer.exe" zip="freefixer_portable.zip"/>			
+		<LINKS title="FRSTx64" link="http://www.bleepingcomputer.com/download/farbar-recovery-scan-tool/dl/82/" exe="FRST64.exe" zip=""/>
+		<LINKS title="FRSTx32" link="http://www.bleepingcomputer.com/download/farbar-recovery-scan-tool/dl/81/" exe="FRST.exe" zip=""/>			
+		<!--UNINSTALLERS-->
+		<LINKS title="AVRemovers" link="https://dl.comss.ru/download/AV_Uninstall_Tools_Pack_2017_12.zip" exe="autorun.exe" zip="AV_Uninstall_Tools_Pack_2017_12.zip"/>	
+		<LINKS title="Revo" link="http://www.revouninstaller.com/download-free-portable.php" exe="RevoUPort.exe" zip="RevoUninstaller_Portable.zip"/>		
+		<LINKS title="RegSeeker" link="http://www.hoverdesk.net/download/RegSeeker45.zip" exe="RegSeeker.exe" zip="RegSeeker45.zip"/>		
+		<LINKS title="UltraSearch" link="http://www.jam-software.com/ultrasearch/UltraSearch-x86.zip" exe="UltraSearch.exe" zip="UltraSearch-x86.zip"/>
+		<LINKS title="UltraSearch_x64" link="http://www.jam-software.com/ultrasearch/UltraSearch-x64.zip" exe="UltraSearch.exe" zip="UltraSearch-x64.zip"/>
+		<LINKS title="Java_Uninst" link="https://javadl-esd-secure.oracle.com/update/jut/JavaUninstallTool.exe" exe="JavaUninstallTool.exe" zip=""/>
+		<!--MALWARE_REMOVAL-->
+		<LINKS title="RKill" link="http://www.bleepingcomputer.com/download/rkill/dl/11/" exe="iExplore.exe" zip="" processName="iExplore"/>
+		<LINKS title="RKill_x64" link="http://www.bleepingcomputer.com/download/rkill/dl/11/" exe="iExplore.exe" zip="" processName="iExplore64"/>
+		<LINKS title="KVRT" link="http://devbuilds.kaspersky-labs.com/devbuilds/KVRT/latest/full/KVRT.exe" exe="KVRT.exe" zip="" processName="KVRT"/>
+		<LINKS title="TDSS_Killer" link="http://media.kaspersky.com/utilities/VirusUtilities/EN/tdsskiller.exe" exe="tdsskiller.exe" zip="" processName="tdsskiller"/>
+		<LINKS title="Hitman" link="https://dl.surfright.nl/HitmanPro.exe" exe="HitmanPro.exe" zip=""/>
+		<LINKS title="Hitman_x64" link="https://dl.surfright.nl/HitmanPro_x64.exe" exe="HitmanPro_x64.exe" zip=""/>
+		<LINKS title="RogueKiller" link="http://download.adlice.com/RogueKiller/RogueKiller.exe" exe="RogueKiller.exe" zip=""/>
+		<LINKS title="RogueKiller_x64" link="http://download.adlice.com/RogueKiller/RogueKillerX64.exe" exe="RogueKillerX64.exe" zip=""/>
+		<LINKS title="MSERT" link="http://definitionupdates.microsoft.com/download/definitionupdates/safetyscanner/x86/msert.exe" exe="msert.exe" zip="" processName="msert"/>
+		<LINKS title="MSERT_x64" link="http://definitionupdates.microsoft.com/download/definitionupdates/safetyscanner/amd64/msert.exe" exe="msert.exe" zip="" processName="msert"/>
+		<LINKS title="Vipre" link="http://go.vipreantivirus.com/?linkid=1605" exe="VipreRescueScanner.exe" zip="" processName="VipreRescueScanner"/>
+		<LINKS title="7z" link="http://www.windows-repair-toolbox.com/host/7z.dll" exe="7z.dll" zip=""/>
+		<LINKS title="Emsisoft" link="http://dl.emsisoft.com/EmsisoftEmergencyKit.exe" exe="EmsisoftEmergencyKit.exe" zip="" processName="Start Emergency Kit Scanner.exe"/>				
+		<LINKS title="AdwCleaner" link="http://www.bleepingcomputer.com/download/adwcleaner/dl/125/" exe="AdwCleaner.exe" zip=""/>
+		<LINKS title="NortonPowerEraser" link="http://liveupdate.symantec.com/upgrade/NPE/1033/NPE.exe" exe="NPE.exe" zip=""/>
+		<LINKS title="Zemana" link="http://d31a49a8t7vrb6.cloudfront.net/api/products/antimalware-portable/" exe="Zemana.AntiMalware.Portable.exe" zip=""/>
+		<LINKS title="Malwarebytes" link="https://downloads.malwarebytes.com/file/mb3/" exe="" zip=""/>
+		<!--OPTIMIZE-->
+		<LINKS title="Ccleaner" link="http://www.piriform.com/ccleaner/download/portable/downloadfile" exe="CCleaner.exe" zip="Ccleaner.zip" processName="CCleaner"/>				
+		<LINKS title="Ccleaner_x64" link="http://www.piriform.com/ccleaner/download/portable/downloadfile" exe="CCleaner64.exe" zip="CCleaner.zip" processName="CCleaner64"/>
+		<LINKS title="Autoruns" link="https://download.sysinternals.com/files/Autoruns.zip" exe="autoruns.exe" zip="Autoruns.zip"/>
+		<LINKS title="Auslogics" link="http://downloads.auslogics.com/en/disk-defrag/ausdiskdefragportable.exe" exe="ausdiskdefragportable.exe" zip=""/>
+		<!--UPDATE-->
+		<LINKS title="Java" link="http://java.com/getjava" exe="" zip=""/>
+		<LINKS title="Flash" link="http://get.adobe.com/flashplayer" exe="" zip=""/>
+		<LINKS title="AdobeReader" link="http://get.adobe.com/reader" exe="" zip=""/>
+		<!--NOTES-->
+		<LINKS title="ProductKey" link="http://www.nirsoft.net/utils/produkey.zip" exe="ProduKey.exe" zip="produkey.zip"/>
+		<LINKS title="ProductKey_x64" link="http://www.nirsoft.net/utils/produkey-x64.zip" exe="ProduKey.exe" zip="produkey-x64.zip"/>
+		<LINKS title="MailPassView" link="http://www.nirsoft.net/protected_downloads/passreccommandline.zip" exe="mailpv.exe" zip="passreccommandline.zip"/>
+		<LINKS title="WirelessKeyView" link="http://www.nirsoft.net/toolsdownload/wirelesskeyview.zip" exe="WirelessKeyView.exe" zip="wirelesskeyview.zip"/>
+		<LINKS title="WirelessKeyView_x64" link="http://www.nirsoft.net/toolsdownload/wirelesskeyview-x64.zip" exe="WirelessKeyView.exe" zip="wirelesskeyview-x64.zip"/>
+		<LINKS title="WebBrowserPassView" link="http://www.nirsoft.net/protected_downloads/passreccommandline.zip" exe="WebBrowserPassView.exe" zip="passreccommandline.zip"/>
+		<!--FINAL_TESTS-->
+		<LINKS title="FlashFT" link="http://www.adobe.com/software/flash/about" exe="" zip=""/>
+		<LINKS title="JavaFT" link="http://java.com/en/download/testjava.jsp" exe="" zip=""/>
+		<LINKS title="CrowdInspect" link="http://download.crowdstrike.com/crowdinspect/CrowdInspect.zip" exe="CrowdInspect.exe" zip="CrowdInspect.zip"/>
+		<LINKS title="NetSpeedTest" link="http://www.speedtest.net/" exe="" zip=""/>
+		<LINKS title="SSLCheck" link="https://www.fortify.net/sslcheck.html" exe="" zip=""/>					
+		<LINKS title="Browsercheck" link="https://browsercheck.qualys.com/?scan_type=js" exe="" zip=""/>		
+		<LINKS title="WebCam" link="http://www.onlinemictest.com/webcam-test" exe="" zip=""/>
+		<LINKS title="Micro" link="http://www.onlinemictest.com/" exe="" zip=""/>
+		<!--UNATTENDED_FIX-->
+		<LINKS title="DontSleep" link="http://www.softwareok.com/Download/DontSleep.zip" exe="DontSleep.exe" zip="DontSleep.zip" processName="DontSleep"/>
+		<LINKS title="DontSleep_x64" link="http://www.softwareok.com/Download/DontSleep_x64.zip" exe="DontSleep_x64.exe" zip="DontSleep_x64.zip" processName="DontSleep_x64"/>
+		<LINKS title="A2cmd" link="http://dl.emsisoft.com/EmsisoftEmergencyKit.exe" exe="EmsisoftEmergencyKit.exe" zip="" processName="a2cmd"/>
+		<LINKS title="Defraggler_U" link="http://www.piriform.com/defraggler/download/portable/downloadfile" exe="df.exe" zip="Defraggler.zip" processName="df"/>
+		<LINKS title="Defraggler_x64_U" link="http://www.piriform.com/defraggler/download/portable/downloadfile" exe="df64.exe" zip="Defraggler.zip" processName="df64"/>
+	</LINKS>
+</ALL_LINKS>
