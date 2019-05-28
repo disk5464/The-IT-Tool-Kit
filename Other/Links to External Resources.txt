@@ -1,0 +1,29 @@
+Links to External Resources
+--------------------------
+r/techsupport
+   https://reddit.com/r/techsupport
+   https://goo.gl/6GA4sf (Malware Removal MegaThread)
+   https://rtechsupport.org
+--------------------------
+Windows / Linux ISO Download Links
+   https://goo.gl/yn2FE3 (Windows 10)
+   https://goo.gl/4GhYfv (Windows 7)
+   https://goo.gl/y82Ta4 (Windows 8.1)
+   https://goo.gl/ea1JYy (Ubuntu 16.04.3 LTS)
+   https://goo.gl/du3rM3 (Mint 18.3 Sylvia)
+
+*Note: The Windows ISOs DO NOT have product keys.
+ You'll need to buy your own. See: https://goo.gl/r1VUsM*
+--------------------------
+Browser Download Links
+   https://goo.gl/i4va9x (Google Chrome)
+   https://goo.gl/yoQ88W (Mozila Firefox)
+   https://goo.gl/hzJ2aa (Opera)
+   https://goo.gl/LxwmJB (Ublock Orgin)
+   https://goo.gl/ddPNxy (HTTPS Everywhere)
+--------------------------
+Miscellaneous Links
+   https://ninite.com
+   https://goo.gl/gq5AvU (Java JDK 9)
+   https://goo.gl/3A7d6j (VLC)
+   https://goo.gl/QZcm3h (WireShark)
