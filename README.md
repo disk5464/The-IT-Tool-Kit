@@ -5,6 +5,6 @@ In this kit, you'll find all sorts of tools to help you, diagnose, quarantine, a
 
 In addition, all of the of the software in this kit was taken straight from the respective developer's website and are free and available to use. None of it has been cracked or pirated. Feel free to upload the files to https://www.virustotal.com if you want to check for viruses and what not. 
 
-If there are any programs that I might have missed and you think should be added feel free to message me on Reddit (u/disk5464) 
+If there are any programs that I might have missed and you think should be added feel free to message me
 
 Enjoy
